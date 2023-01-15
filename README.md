@@ -1,4 +1,4 @@
-<h3>Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>My name is Matthew Allen.</h3>
+<h3 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>My name is Matthew Allen.</h3>
 <hr>
 <h3 align="center">A passionate Certified Blockchain Developer and Certified Full-Stack Developer based in Davie, FL</h3>
 
